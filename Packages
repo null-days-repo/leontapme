@@ -1,0 +1,11 @@
+Package: com.leontapadmin.byontrey228
+Name: Standoff2 Admin Panel
+Architecture: iphoneos-arm
+Description: Standoff2 Mod Menu
+Maintainer: ontrey228
+Author: ontrey228
+Filename: ./debs/com.leontapadmin.byontrey228_0.19.1_iphoneos-arm
+Section: Tweaks
+Homepage: discord.gg/leontap
+Version: 0.19.1
+Installed-Size: 972
